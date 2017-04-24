@@ -2753,3 +2753,10 @@ header.BGdark .logo a img {
 .p-0 {
   padding: 0 !important;
 }
+.bold {
+  font-weight: bolder !important;
+}
+table th, table, table td {
+  text-align: center !important;
+  font-family: Arial;
+}
