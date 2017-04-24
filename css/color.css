@@ -1,0 +1,173 @@
+@charset "UTF-8";
+a,
+.price span,
+h1 span,
+.subscribe input[type=submit],
+i.prime,
+ul.list-default li:before,
+.offer h1,
+.tab-content h3 i,
+h1 span,
+h2 span,
+#upcoming .item .info i {
+    color: #fe4c6e;
+}
+
+.prime .dblBorder:hover,
+.prime .dblBorder:hover .dblBorderChild {
+    border: #5a0e1d 1px solid;
+}
+
+#subscribeForm input[type="email"] {
+    border-color: rgba(14, 90, 76, 0.8);
+}
+
+#slides h3,
+.btn-primary,
+.BGprime,
+h3 span,
+.option li:hover,
+.btn-primary,
+.btn-dark:hover,
+a.top,
+.owl-theme .owl-controls .owl-buttons div,
+#upcoming .item:hover,
+.eventData .btn:hover,
+#contact_form input[type="submit"]:hover,
+.subscribe input[type=submit] {
+    background-color: #fe4c6e;
+}
+
+.contactForm .form-control:focus,
+.sqaureIconPrime {
+    -webkit-box-shadow: 0 0 0 0.26em rgba(90, 14, 29, 0.5);
+    -moz-box-shadow: 0 0 0 0.26em rgba(90, 14, 29, 0.5);
+    box-shadow: 0 0 0 0.26em rgba(90, 14, 29, 0.5);
+}
+
+.BGprime.opaque {
+    background-color: rgba(255, 72, 0, 0.8);
+}
+
+.dblBorder,
+.dblBorderChild {
+    border: rgba(154, 76, 110, 0.6) 1px solid;
+}
+
+#celebs .item i,
+.main-menu li:hover>a i,
+#venue strong,
+#venue label {
+    color: #fe4c6e;
+}
+
+.secondary .dblBorder:hover,
+.secondary .dblBorder:hover .dblBorderChild {
+    border: #404c72 1px solid;
+}
+
+#slides .slide .slide-caption .container span,
+.styled,
+#pricing .package .inner,
+#pricing hr,
+#testimonial span,
+#subscribeForm input[type="text"] {
+    border-color: #0e5a4c;
+}
+
+.navbar-default,
+.BGsecondary,
+.option li,
+.btn-default,
+#testimonial .carousel-indicators li.active,
+.galleryImg>a span,
+.sqaureIconSec,
+.owl-theme .owl-controls .owl-page span,
+.tabs-left li.active,
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover,
+.nav-tabs>li.active>a:focus,
+.nav-tabs>li>a:hover,
+.nav-tabs>li>a:focus,
+#pricing .package:hover,
+#upcoming .item .img,
+#testimonial .carousel-indicators li,
+#slides,
+.features .row>div:hover .sqaureIconPrime {
+    background-color: #404c72;
+}
+
+.BGsblue.opaqueBG,
+.member .info {
+    background-color: rgba(64, 76, 114, 0.8);
+}
+
+.features .boxBg {
+    background-color: rgba(64, 76, 114, 0.3);
+}
+
+.sqaureIconSec,
+.features .row>div:hover .sqaureIconPrime {
+    -webkit-box-shadow: 0 0 0 0.26em rgba(64, 76, 114, 0.5);
+    -moz-box-shadow: 0 0 0 0.26em rgba(64, 76, 114, 0.5);
+    box-shadow: 0 0 0 0.26em rgba(64, 76, 114, 0.5);
+}
+
+.secondary .dblBorder:hover,
+.secondary .dblBorder:hover .dblBorderChild {
+    border: rgba(64, 76, 114, 1) 1px solid;
+}
+
+.BGlight,
+.services,
+#upcoming .item,
+input[type=text],
+input[type=email],
+input[type=tel],
+input[type=number],
+input[type=datetime],
+.form-control {
+    background-color: #f8f8f8;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.phone small,
+.offer h1 span,
+.features p {
+    color: #000;
+}
+
+#slides .slide .slide-caption .container h3 span,
+.BGdark,
+.phone:hover .BGsecondary,
+.btn:hover,
+.middleBox,
+.btn-dark,
+.galleryImg,
+.social ul li a i,
+ul.tabs-left,
+#venue h2,
+.experts .highlightBox,
+#slides .slide .img {
+    background-color: #000;
+}
+
+nav.nav,
+header.BGdark,
+.eventData .dblBorder:hover .dblBorderChild {
+    background-color: #232323!important;
+}
+.BGvino {
+  background-color: #5a0e1d;
+}
+.c-green {
+  color: #0e5a4c !important;
+}
+.c-pink {
+  color: #fe4c6e !important;
+}
