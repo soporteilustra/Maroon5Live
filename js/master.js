@@ -40,7 +40,7 @@ jQuery(document).ready(function($) {
             scrollTop: $(this.hash).offset().top
         }, 1000);
     });
-    var endDate = "September 19, 2017 18:00:00";
+    var endDate = "September 19, 2017 21:00:00";
     $('.countdown.styled').countdown({
         date: endDate,
         render: function(data) {

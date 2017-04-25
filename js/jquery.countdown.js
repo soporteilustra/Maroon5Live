@@ -95,7 +95,7 @@
             return this.init();
         };
         $.countdown.defaultOptions = {
-            date: "June 7, 2087 15:03:25",
+            date: "September 19, 2017 21:03:25",
             refresh: 1000,
             onEnd: $.noop,
             render: function(date) {
